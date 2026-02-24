@@ -14,7 +14,7 @@ This project demonstrates advanced SQL skills for **business analytics** and **d
 ---
 
 ## 🛠 Tools & Techniques
-- SQL (MySQL / PostgreSQL)  
+- SQL (MySQL)  
 - Advanced queries: Joins, CTEs, Window Functions, Aggregations  
 - Data cleaning and validation in SQL
 
